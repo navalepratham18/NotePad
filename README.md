@@ -16,7 +16,7 @@
 # Ensure you have Java 8 or later installed
 
 # Clone this repository
-git clone https://github.com/your-username/NooBNotes.git
+git clone https://github.com/navalepratham18/NooBNotes.git
 
 # Navigate to the project directory
 cd NooBNotes
